@@ -1,0 +1,13 @@
+Would be really nice to have the following:
+
+* Interface to select author or create new author/email
+* Configuration to Import 
+- check boxes to import comments, likes,media,etc
+- custom field selection option
+ 
+* Import directly from FB feed
+* Show progress bar while importing
+* Check already imported (need to somehow identify feed, we have ID, could be done)
+* Exclude/Include Comments author
+* Save import configuration as a file 
+* Allow to Schedule import with configuration file
